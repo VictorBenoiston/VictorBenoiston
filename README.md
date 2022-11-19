@@ -52,18 +52,15 @@ Here are some ideas to get you started:
 
 
 <h2>Statistical Data :</h2>
-
-<img align="left" height='200px'
+    
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="VictorBenoiston" />
+    
+<img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="VictorBenoiston" 
     bg_color=#808080/>
 
-&nbsp;<img align="right" height='200px' src="https://github-readme-stats.vercel.app/api?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="VictorBenoiston" />
-
-
-<br><br><br><br><br><br><br>
-    
     
 <h2>I hope this is not a farewell! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2> 
 
