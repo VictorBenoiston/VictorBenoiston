@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,styledcomponents,firebase,github,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,styledcomponents,firebase,nodejs,webpack,github,python,figma)](https://skillicons.dev)
     
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
     
@@ -52,16 +52,19 @@ Here are some ideas to get you started:
 
 
 <h2>Statistical Data :</h2>
-<p><img align="center"
+
+<img align="left" height='200px'
     src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="VictorBenoiston" 
-    bg_color=#808080/></p>
+    bg_color=#808080/>
 
-<br>
+&nbsp;<img align="right" height='200px' src="https://github-readme-stats.vercel.app/api?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="VictorBenoiston" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorBenoiston&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="VictorBenoiston" /></p>
 
+<br><br><br><br><br><br><br>
+    
+    
 <h2>I hope this is not a farewell! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2> 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=VictorBenoiston.VictorBenoiston)
