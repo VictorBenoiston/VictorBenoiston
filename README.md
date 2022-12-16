@@ -44,7 +44,22 @@ Here are some ideas to get you started:
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
     
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,styledcomponents,firebase,nodejs,webpack,github,python,figma)](https://skillicons.dev)
+<h3>Front-End</3>
+    
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,sass,styledcomponents,tailwind)
+
+<h3>Back-End</3>
+    
+![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,mongodb,firebase)
+    
+<h3>Others</3>
+    
+![My Skills](https://skillicons.dev/icons?i=docker,webpack,netlify,github,vite,figma,autocad)
+    
+
+    
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,styledcomponents,tailwind,firebase,mongodb,nodejs,webpack,github,python,figma)](https://skillicons.dev) -->
     
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
     
