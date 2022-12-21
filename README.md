@@ -63,7 +63,7 @@ Here are some ideas to get you started:
     
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
     
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victor-oliveira-3424101a7/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/victorbjo/)
 
 
 <h2>Statistical Data :</h2>
