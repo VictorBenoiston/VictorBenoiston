@@ -70,10 +70,10 @@ Here are some ideas to get you started:
 <h2>Statistical Data :</h2>
     
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBenoiston&theme=gotham&show_icons=true)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBenoiston&show_icons=true&theme=gotham)
 
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBenoiston&theme=gotham&layout=compact)](https://github.com/VictorBenoiston/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorBenoiston&layout=compact&theme=gotham)](https://github.com/VictorBenoiston/github-readme-stats)
 
     
 <h2>I hope this is not a farewell! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2> 
