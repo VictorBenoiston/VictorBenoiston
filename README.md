@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 <h1> Hello, Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
     
-<div> 🇺🇸 Hi, there! I'm Victor, hope you're fine! I am a 23 years old Brazilian tech lover! I majored in Science and Technology at the Federal university of the Semi-Arid Region, and now, I am enrolled to analysis and system development. </div>
+<div> 🇺🇸 Hi, there! I'm Victor, hope you're fine! I am a 24 years old Brazilian tech lover! I majored in Science and Technology at the Federal university of the Semi-Arid Region, and now, I am enrolled to analysis and system development. </div>
     
 <br>
     
-<div> 🇧🇷 Olá! Eu me chamo Victor, tenho 23 anos, e sou apaixonado por tecnologia! Sou formado em Ciência e Tecnologia pela Universidade Federal Rural do Semi-Árido (UFERSA), e atualmente, estou cursando análise e desenvolvimento de sistemas.  </div>
+<div> 🇧🇷 Olá! Eu me chamo Victor, tenho 24 anos, e sou apaixonado por tecnologia! Sou formado em Ciência e Tecnologia pela Universidade Federal Rural do Semi-Árido (UFERSA), e atualmente, estou cursando análise e desenvolvimento de sistemas.  </div>
     
 <br>
     
