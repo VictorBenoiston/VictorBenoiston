@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     
 <h3>Others</3>
     
-![My Skills](https://skillicons.dev/icons?i=docker,webpack,netlify,github,vite,figma,autocad)
+![My Skills](https://skillicons.dev/icons?i=docker,webpack,netlify,github,vite,figma,autocad,tensorflow)
     
 
     
