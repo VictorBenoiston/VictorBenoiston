@@ -46,16 +46,16 @@ Here are some ideas to get you started:
     
 <h3>Front-End</3>
     
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,sass,styledcomponents,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,sass,styledcomponents,tailwind,rails,bootstrap)
 
 <h3>Back-End</3>
     
-![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,mongodb,firebase)
+![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,mongodb,firebase,flask,ruby,sqlite)
 
     
 <h3>Others</3>
     
-![My Skills](https://skillicons.dev/icons?i=docker,webpack,netlify,github,vite,figma,autocad,tensorflow)
+![My Skills](https://skillicons.dev/icons?i=docker,webpack,netlify,github,vite,figma,autocad,tensorflow,latex)
     
 
     
